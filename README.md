@@ -6,7 +6,9 @@ This is a very simple Viper module for macholibre.  It allows you to display the
 
 ## Dependencies
 This module requires the `macholibre` python module.
-`sudo pip install git+https://github.com/aaronst/macholibre.git`
+```
+sudo pip install git+https://github.com/aaronst/macholibre.git
+```
 See the [macholibre project page](https://github.com/aaronst/macholibre.git) for its dependencies.
 
 ## Usage
